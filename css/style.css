@@ -9,5 +9,10 @@
 input{
 	margin: 10px auto;
 	border: none;
-	border-bottom: 1px solid grey;	
+	border-bottom: 2px solid grey;	
+}
+textarea{
+	margin: 10px auto;
+	border: none;
+	border-bottom: 2px solid grey;	
 }
